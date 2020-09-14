@@ -8,12 +8,15 @@
 
 ![facebook qrcode](./img/fb_qrcode.png)
 
+## IDE Recommend
+* [Atom](https://atom.io/)
+* [Vscode](https://code.visualstudio.com/)
+
 ## Category
 1. Computer Environment Setting
 2. [Homework Upload Tutorial](#homework-upload-tutorial)
 
 ## Computer Environment Setting
-
 * [Windows 10](#windows-10)
 * [MacOS](#macos)
 
