@@ -4,7 +4,7 @@
 
 * [Jenkins](https://ssl-jenkins.csie.ntut.edu.tw): https://ssl-jenkins.csie.ntut.edu.tw
 
-* [Facebook](https://www.facebook.com/groups/631950490705182/about/): https://www.facebook.com/groups/631950490705182/about/
+* [Facebook](https://www.facebook.com/groups/2375902846050428/about/): https://www.facebook.com/groups/2375902846050428/about/
 
 ![facebook qrcode](./img/fb_qrcode.png)
 
@@ -14,9 +14,8 @@
 
 ## Computer Environment Setting
 
-* [Windows 10](https://hackmd.io/C77OMqfuSUGuf-SDC0zUwA#Windows-10)
-* [Ubuntu](https://hackmd.io/C77OMqfuSUGuf-SDC0zUwA#UbuntuUbuntu-on-Window-10)
-* [MacOS](https://hackmd.io/C77OMqfuSUGuf-SDC0zUwA#MacOS)
+* [Windows 10](#windows-10)
+* [MacOS](#macos)
 
 ## Windows 10  
 ### 1. Open developer mode on window  
@@ -33,8 +32,7 @@
 ### 4. Now you can open bash shell in cmd.  
 ![](https://i.imgur.com/v7WVbMe.png)
 
-## Ubuntu(Ubuntu on Window 10)  
-### 1. Run the following command under bash shell.  
+### 5. Run the following command under bash shell.  
 ```
 sudo apt-get update
 sudo apt-get install g++
