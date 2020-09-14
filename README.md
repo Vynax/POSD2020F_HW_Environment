@@ -10,7 +10,7 @@
 
 ## IDE Recommend
 * [Atom](https://atom.io/)
-* [Vscode](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Category
 1. Computer Environment Setting
