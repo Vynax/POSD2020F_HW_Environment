@@ -50,7 +50,8 @@ sudo cp *.a /usr/lib
 
 ## MacOS  
 
-### 1. Download [GoogleTest](https://github.com/google/googletest/releases/tag/release-1.8.0) and run the following command.  
+### 1. Download [GoogleTest](https://github.com/google/googletest/releases/tag/release-1.8.0) and run the following command.   
+Reference: [https://gist.github.com/massenz/41bb2c8375294f4d9927](https://gist.github.com/massenz/41bb2c8375294f4d9927) 
 ```
 brew install cmake
 cd ~/Downloads/googletest-release-1.8.0/googletest
