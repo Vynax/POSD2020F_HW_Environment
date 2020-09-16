@@ -36,6 +36,7 @@
 ![](https://i.imgur.com/v7WVbMe.png)
 
 ### 5. Run the following command under bash shell.  
+Reference: [https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/](https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/)  
 ```
 sudo apt-get update
 sudo apt-get install g++
