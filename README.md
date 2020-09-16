@@ -50,18 +50,18 @@ sudo cp *.a /usr/lib
 
 ## MacOS  
 
-### 1. Download [GoogleTest](https://github.com/google/googletest/releases/tag/release-1.10.0) and run the following command.  
+### 1. Download [GoogleTest](https://github.com/google/googletest/releases/tag/release-1.8.0) and run the following command.  
 ```
 brew install cmake
-cd ~/Downloads/googletest-release-1.10.0/googletest
+cd ~/Downloads/googletest-release-1.8.0/googletest
 mkdir build
 cd build
-cmake –Dgtest_build_samples=ON –Dgtest_build_tests=ON ~/Downloads/googletest-release-1.10.0/googletest
+cmake –Dgtest_build_samples=ON –Dgtest_build_tests=ON ~/Downloads/googletest-release-1.8.0/googletest
 make
 sudo mkdir /usr/local/Cellar/gtest
-sudo cp ~/Downloads/googletest-release-1.10.0/googletest/build/libgtest.a /usr/local/Cellar/gtest/
+sudo cp ~/Downloads/googletest-release-1.8.0/googletest/build/libgtest.a /usr/local/Cellar/gtest/
 sudo ln –snf /usr/local/Cellar/gtest/libgtest.a /usr/local/lib/libgtest.a
-sudo cp –r ~/Downloads/googletest-release-1.10.0/googletest/include /usr/local/Cellar/gtest/
+sudo cp –r ~/Downloads/googletest-release-1.8.0/googletest/include /usr/local/Cellar/gtest/
 ln –snf /usr/local/Cellar/gtest/include/gtest /usr/local/include/gtest
 ```
 
