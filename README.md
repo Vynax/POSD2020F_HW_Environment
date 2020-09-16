@@ -46,6 +46,7 @@ sudo apt-get install cmake
 cd /usr/src/gtest 
 sudo cmake CMakeLists.txt 
 sudo make 
+cd lib
 sudo cp *.a /usr/lib
 ```
 
